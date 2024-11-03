@@ -1,0 +1,1 @@
+1. Create VPC,Subnet,Internet Gateway, Route Table , associate subnet , security group 

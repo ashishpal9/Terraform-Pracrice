@@ -2,3 +2,4 @@
 *.tfstate
 *.tfstate.*
 crash.log
+/workspaces/Terraform-Pracrice/1_vpc-creation/.terraform/providers/registry.terraform.io/hashicorp/aws/5.73.0/linux_amd64
